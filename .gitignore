@@ -1,0 +1,38 @@
+# ------------------------------------------------------------------
+# Naskah dan penyusunannya (tidak dipublikasikan)
+# ------------------------------------------------------------------
+paper/
+scripts/make_flowchart.py
+*.docx
+*.dotx
+~$*
+*.ris
+*.bib
+references_csl.json
+manuscript_*
+
+# ------------------------------------------------------------------
+# Data (diunduh atau dibuat ulang dengan skrip; ukuran besar)
+# ------------------------------------------------------------------
+data/raw/
+data/processed/
+data/streams/
+*.zip
+
+# ------------------------------------------------------------------
+# Lingkungan Python dan file sementara
+# ------------------------------------------------------------------
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# ------------------------------------------------------------------
+# Sistem operasi dan editor
+# ------------------------------------------------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.claude/

@@ -1,0 +1,5 @@
+delay,spearman_rho,p,best_S1,best_S2
+0,0.939,0.0001,PageHinkley,ADWIN
+1000,0.952,0.0,ADWIN,ADWIN
+5000,0.985,0.0,ADWIN-score,ADWIN-score
+20000,0.491,0.1497,KS-feat,ADWIN-score
